@@ -1,0 +1,59 @@
+{
+  "cookies": [
+    {
+      "name": "WhatsNewBanner",
+      "value": "{%22deployDate%22:%222022-09-20%22%2C%22prodVersion%22:%222.2%22}",
+      "domain": ".devoffice.ru",
+      "path": "/",
+      "expires": 1696511437,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lang",
+      "value": "en-US",
+      "domain": ".devoffice.ru",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "user_persistent",
+      "value": "09e35d049a3eb58cfe2a0c1ec40237d5",
+      "domain": ".devoffice.ru",
+      "path": "/",
+      "expires": 1665234438.9273,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "mail_session",
+      "value": "6179b74471f837235c721f030d0f4bdf626eb7d5bc22caa472bb07e698a5a895ba7e973515a3ec42fa84da994e1909d7",
+      "domain": ".devoffice.ru",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://auth-wte02.devoffice.ru",
+      "localStorage": [
+        {
+          "name": "myoffice^channel-localstorage-message-session^login",
+          "value": "\"default-value^0.39099200568936654\""
+        },
+        {
+          "name": "myoffice^token",
+          "value": "\"f6b2bb6b3cf9b78a36b64b7cbf077c5b\""
+        }
+      ]
+    }
+  ]
+}

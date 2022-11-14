@@ -1,0 +1,16 @@
+{
+  "name": "autotests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.25.2",
+    "allure-playwright": "^2.0.0-beta.19"
+  },
+  "scripts": {
+    "test": "playwright test"
+  },
+  "dependencies": {
+    "gremlins.js": "^2.2.0"
+  }
+}
